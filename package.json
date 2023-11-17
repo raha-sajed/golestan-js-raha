@@ -16,7 +16,6 @@
     "xsm": "node-sass -w public/scss/xsm/ -o public/css/xsm/ -r"
   },
   "devDependencies": {
-    "vite": "^4.4.0"
   },
   "dependencies": {
     "json-server": "^0.17.4",
